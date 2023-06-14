@@ -1,0 +1,9 @@
+streamlit==1.17.0
+requests==2.27.1
+pandas==1.5.3
+Pillow==9.4.0
+# pygsheets==2.0.6
+numpy==1.21.5
+pytz==2022.1
+google-cloud-secret-manager==2.15.1
+google-cloud-storage==2.7.0

@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    demo:
+      email: demo@iceberg-data.com
+      name: demo-ice
+      password: '$2b$12$AkwpqKTInEA1OhcRikCeQeZK/TK/Dnt2JEKbRT82bjrApnAkkmvve' #meli-ice-2357
+    
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+preauthorized:
+  emails:
